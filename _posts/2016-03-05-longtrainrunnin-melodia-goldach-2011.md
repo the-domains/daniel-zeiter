@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=tUJb1UJbHTo'
+inLanguage: de
+starred: false
+keywords: []
+description: "Die Melodia Goldach präsentierte an ihrer Unterhaltungsshow 2011 'Long Train Runnin'' von The Doobie Brothers. Gesanglich unterstützt wurde der Musikverein dabei von Manuela Gerosa und Thomas Straumann. Das Team von Hoppel-Pictures Entertainment filmte das Konzert."
+datePublished: '2016-03-05T03:32:37.344Z'
+dateModified: '2016-03-05T03:30:34.949Z'
 author:
   - name: Philipp Seitz
     url: 'https://www.youtube.com/user/psking99'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Die Melodia Goldach präsentierte an ihrer Unterhaltungsshow 2011 'Long Train Runnin'' von The Doobie Brothers. Gesanglich unterstützt wurde der Musikverein dabei von Manuela Gerosa und Thomas Straumann. Das Team von Hoppel-Pictures Entertainment filmte das Konzert."
-inLanguage: de
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tUJb1UJbHTo&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=tUJb1UJbHTo'
 title: "LongTrainRunnin' (Melodia Goldach, 2011)"
-datePublished: '2016-03-05T03:30:32.570Z'
-dateModified: '2016-03-05T03:27:09.435Z'
 sourcePath: _posts/2016-03-05-longtrainrunnin-melodia-goldach-2011.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
