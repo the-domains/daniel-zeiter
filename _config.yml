@@ -1,8 +1,19 @@
-name: danielzeiter.com
-favicon: null
-layout_spectrum: 0.50478
-typography_spectrum: 0.94373
+color:
+  brandStrength: 1
+  saturation: 0.25
+  brandColors:
+    - '#000000'
+    - '#213b8b'
+    - '#d2d8e2'
+    - '#3c7cbb'
+    - '#72a1d3'
+  lightness: 0.25
+  rhythmicContrast: 0.25
 title: Daniel Zeiter
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 collections:
   - index:
       navigable: true
@@ -16,26 +27,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.50478
+purpose: []
+name: danielzeiter.com
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#213b8b'
-    - '#d2d8e2'
-    - '#3c7cbb'
-    - '#72a1d3'
-  brandStrength: 1
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.94373
