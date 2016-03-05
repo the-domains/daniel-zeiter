@@ -17,8 +17,8 @@ keywords:
   - gallen
   - musik
 description: '"Melodia Goldach presents Queen" am St.Galler OpenAir 2009. Vocals: Thomas Straumann, Brigitte Oelke. Musikalische Leitung: Daniel Zeiter. produziert von Hoppel-Pictures Entertainment.'
-datePublished: '2016-03-05T03:35:57.261Z'
-dateModified: '2016-03-05T03:32:35.309Z'
+datePublished: '2016-03-05T03:39:16.812Z'
+dateModified: '2016-03-05T03:39:09.637Z'
 author:
   - name: Stefan Klinger
     url: 'https://www.youtube.com/user/stefkli061'
