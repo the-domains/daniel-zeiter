@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T04:51:14.093Z'
-dateModified: '2016-03-05T04:51:12.406Z'
+datePublished: '2016-03-05T05:04:21.348Z'
+dateModified: '2016-03-05T05:04:00.783Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -35,7 +35,7 @@ Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern
 Seit 2003 Dirigent und Leiter der KBO Concert Band (Kantonsschule am Burggraben St.Gallen) 
 
 Seit 2007 Dirigent der Melodia Goldach
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93af0211-7432-4270-999f-c9ea5b592bde.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fa882a98306fa89768e9dfab469dedfb05c4092.jpg)
 
 Musikalische Ausbildung als Dirigent
 
