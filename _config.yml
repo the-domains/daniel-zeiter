@@ -1,20 +1,8 @@
-title: Dirigent · Saxophon
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.2234401
-favicon: null
 name: Daniel Zeiter
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.50767
+typography_spectrum: 0.65739
+title: Dirigent · Saxophon
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.375
-  lightness: 0.6231028
-  saturation: 0.4932546
-  rhythmicContrast: 0.6720067
   brandColors:
     - '#000000'
     - '#213b8b'
     - '#d2d8e2'
     - '#3c7cbb'
     - '#72a1d3'
-typography_spectrum: 0.65739
+  brandStrength: 0.375
+  lightness: 0.6231028
+  saturation: 0.4932546
+  rhythmicContrast: 0.6720067
+purpose: []
