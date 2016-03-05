@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T04:22:06.754Z'
-dateModified: '2016-03-05T04:22:02.285Z'
+datePublished: '2016-03-05T04:51:14.093Z'
+dateModified: '2016-03-05T04:51:12.406Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -23,6 +23,48 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65bf03fa4afdc51ffd577d0f52e1cad3c3a9edef.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b88d945b1b86853f26de12b49b6006edf3b66f53.jpg)
+
+Tätigkeiten als Dirigent aktuell: 
+
+Seit 1997 Gründung und Leitung des Saxophonquartettes „Les Saxoiseaux" 
+
+Seit 2000 Co-Leader und Saxophonist in der Atlantis Big Band 
+
+Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern 
+
+Seit 2003 Dirigent und Leiter der KBO Concert Band (Kantonsschule am Burggraben St.Gallen) 
+
+Seit 2007 Dirigent der Melodia Goldach
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93af0211-7432-4270-999f-c9ea5b592bde.jpg)
+
+Musikalische Ausbildung als Dirigent
+
+1998 -- 2000 bei Eduard Meier (CH) 
+
+2001 Abschluss des Studiums Blasorchesterdirektion in St. Gallen
+2002 Meisterkurs und Wettbewerb der internationalen Musikwochen Grenchen unter Andreas Spoerri 
+
+2011 -- 2012 Sabbatical in Paris bei Neil Thomson, intensive höhere Studien im sinfonischen Repertoire, Privatstudent von Neil Thomson
+seit 2012 Meisterkurse beim LCW in Paris und London unter John Farrer (USA), Neil Thomson (GB) und Patrick Bailey (GB)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93a8e29-dfa9-40f8-9700-12384de283a6.jpg)
+
+Spezielles und „Was man wirklich wissen sollte" 
+
+Auszeichnung als Preisträger 2006 der „Josef Strässle-Steigacker-Stiftung" des St.Galler Blasmusikverbandes
+Sein Studium im Bereich „Saxophon klassisch" schloss er 2005 in Zürich mit Auszeichnung ab 
+
+In jungen Jahren Gesangsunterricht als Sopran bei Walter Hein (CAN), später Meisterkurse Gesang bei Dorothée Labusch in Frankreich und Romeo Alvi Kia (A) 
+
+Im Alter von 4 (!) bis 14 Jahren am Stadttheater St.Gallen als Sänger tätig 
+
+Im zarten Alter von 12 Jahren erstmals mit einer gewissen Manuela Gerosa in besagtem Theater die Zauberflöte gesungen 
+
+Schuhgrösse: 43 
+
+Kindergarten besucht in: Buechen bei Staad 
+
+Im Alter von 10 -- 13 Jahren Tambourenunterricht 
+
+Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
+
+Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
