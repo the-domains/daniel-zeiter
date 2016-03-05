@@ -1,7 +1,7 @@
 name: Daniel Zeiter
 favicon: null
-layout_spectrum: 0.50767
-typography_spectrum: 0.44511
+layout_spectrum: 0.22634
+typography_spectrum: 0.94373
 title: Dirigent • Saxophonist • Musikpädagoge
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#d2d8e2'
     - '#3c7cbb'
     - '#72a1d3'
-  brandStrength: 0.125
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
