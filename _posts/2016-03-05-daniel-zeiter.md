@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T05:05:36.575Z'
-dateModified: '2016-03-05T05:04:55.005Z'
+datePublished: '2016-03-05T11:21:43.397Z'
+dateModified: '2016-03-05T11:20:35.304Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
