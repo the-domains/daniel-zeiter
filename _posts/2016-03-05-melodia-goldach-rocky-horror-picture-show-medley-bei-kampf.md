@@ -17,8 +17,8 @@ keywords:
   - horror
   - bml
 description: 'Melodia Goldach spielt gemeinsam mit ihrem prominenten Teammitglied Nöldi Forrer ein Medley mit Songs "Hot Patootie", "Touch-A, Touch-A, Touch-Me" und "Time Warp" aus der "Rocky Horror Picture Show"'
-datePublished: '2016-03-05T03:33:41.815Z'
-dateModified: '2016-03-05T03:33:38.956Z'
+datePublished: '2016-03-05T03:36:04.682Z'
+dateModified: '2016-03-05T03:33:51.146Z'
 author:
   - name: SRF Musik
     url: 'https://www.youtube.com/user/srfmusik'
