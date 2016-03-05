@@ -1,6 +1,6 @@
 name: danielzeiter.com
 favicon: null
-layout_spectrum: 0.74524
+layout_spectrum: 0
 typography_spectrum: 0.94373
 title: Daniel Zeiter
 collections:
@@ -34,7 +34,7 @@ color:
     - '#d2d8e2'
     - '#3c7cbb'
     - '#72a1d3'
-  brandStrength: 0.75
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
