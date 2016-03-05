@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Daniel Zeiter
-datePublished: '2016-03-05T14:45:47.090Z'
-dateModified: '2016-03-05T14:38:45.534Z'
+datePublished: '2016-03-05T14:46:32.301Z'
+dateModified: '2016-03-05T14:46:10.605Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
