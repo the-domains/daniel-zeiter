@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dirigent · Saxophon]]></title>
         <description><![CDATA[Dirigent · Saxophon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daniel-zeiter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 03:01:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 03:09:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daniel-zeiter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel Zeiter]]></title>
-            <description><![CDATA[<article><h1>Daniel Zeiter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2513544-888d-4b8d-a516-5c563b775ed3.jpg"></article>]]></description>
-            <link>undefineddaniel-zeiter/index.html</link>
+            <description><![CDATA[<article><h1>Daniel Zeiter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65bf03fa4afdc51ffd577d0f52e1cad3c3a9edef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/daniel-zeiter/daniel-zeiter/index.html</link>
             <guid isPermaLink="false">50659fef-dc77-4ccb-964a-39bd4eba134e</guid>
-            <pubDate>Sat, 05 Mar 2016 03:00:38 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 03:09:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
