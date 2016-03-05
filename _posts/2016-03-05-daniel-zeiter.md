@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Daniel Zeiter
-datePublished: '2016-03-05T14:38:35.475Z'
-dateModified: '2016-03-05T14:37:27.279Z'
+datePublished: '2016-03-05T14:45:47.090Z'
+dateModified: '2016-03-05T14:38:45.534Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
