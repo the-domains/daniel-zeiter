@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T03:27:52.929Z'
-dateModified: '2016-03-05T03:22:43.441Z'
+datePublished: '2016-03-05T03:36:15.482Z'
+dateModified: '2016-03-05T03:35:17.358Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
