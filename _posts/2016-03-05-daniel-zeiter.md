@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T16:58:06.760Z'
-dateModified: '2016-03-05T16:58:04.379Z'
+datePublished: '2016-03-05T16:59:07.568Z'
+dateModified: '2016-03-05T16:59:02.981Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -41,7 +41,6 @@ __
 __
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b14a0e-f076-4d4b-b675-5211808688ee.jpg)
 
 ## Der Musikpädagoge
 
@@ -62,7 +61,6 @@ Meisterkurse beim LCW in Paris und London unter _John Farrer (USA), __Neil Thoms
 **1998 -- 2000** bei _Eduard Meier (CH) _
 
 **Seit 1998** Registerlehrer im Sommerlager des _St.Galler Blasmusikverband_es Musikalische Ausbildung als Dirigent
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82f6f95b-762a-4693-ba56-aae1d10ad6f2.jpg)
 
 ## Musikalische Ausbildung
 
@@ -82,7 +80,6 @@ Kammermusik bei Jean-Georges Koerper (Musikhochschule Zürich)
 **1998** Beginn des Lehrdiplomstudiums an der _Musikakademie St.Gallen_ bei _Silvio Wyler_ (Saxophon klassisch)
 
 **1991 -- 2005** Saxophonunterricht bei verschiedensten Lehrern
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/200388db9d0bcd44c36dc6a19b5c8b6ffeaa909e.jpg)
 
 ## Spezielles und   
 „Was man wirklich wissen sollte" 
