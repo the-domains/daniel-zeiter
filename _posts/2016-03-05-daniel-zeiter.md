@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T11:26:50.585Z'
-dateModified: '2016-03-05T11:26:41.464Z'
+datePublished: '2016-03-05T12:26:55.485Z'
+dateModified: '2016-03-05T12:26:48.421Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -26,15 +26,15 @@ _type: Article
 
 Tätigkeiten als Dirigent aktuell: 
 
-Seit 1997 Gründung und Leitung des Saxophonquartettes „Les Saxoiseaux" 
+Seit 2007 Dirigent der [Melodia Goldach][0]
 
-Seit 2000 Co-Leader und Saxophonist in der Atlantis Big Band 
+Seit 2003 Dirigent und Leiter des [Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO)][1] und des Orchesters des Untergymnasiums
 
 Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern 
 
-Seit 2003 Dirigent und Leiter der KBO Concert Band (Kantonsschule am Burggraben St.Gallen) 
+Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
 
-Seit 2007 Dirigent der Melodia Goldach
+Seit 1997 Gründung und Leitung des Saxophonquartettes _Les Saxoiseaux _
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fa882a98306fa89768e9dfab469dedfb05c4092.jpg)
 
 Musikalische Ausbildung als Dirigent
@@ -68,3 +68,6 @@ Im Alter von 10 -- 13 Jahren Tambourenunterricht
 Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
 
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
+
+[0]: http://www.melodia.ch/
+[1]: null
