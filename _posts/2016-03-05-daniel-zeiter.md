@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T16:25:24.360Z'
-dateModified: '2016-03-05T16:24:55.604Z'
+datePublished: '2016-03-05T16:25:34.175Z'
+dateModified: '2016-03-05T16:25:33.725Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -40,8 +40,6 @@ __
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b14a0e-f076-4d4b-b675-5211808688ee.jpg)
-
-## 
 
 ## Der Musikpädagoge
 
