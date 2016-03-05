@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dirigent · Saxophon]]></title>
+        <description><![CDATA[Dirigent · Saxophon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 03:01:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Daniel Zeiter]]></title>
+            <description><![CDATA[<article><h1>Daniel Zeiter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2513544-888d-4b8d-a516-5c563b775ed3.jpg"></article>]]></description>
+            <link>undefineddaniel-zeiter/index.html</link>
+            <guid isPermaLink="false">50659fef-dc77-4ccb-964a-39bd4eba134e</guid>
+            <pubDate>Sat, 05 Mar 2016 03:00:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
