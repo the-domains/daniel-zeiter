@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:44:40.562Z'
-dateModified: '2016-03-05T20:44:38.974Z'
+datePublished: '2016-03-05T21:44:38.946Z'
+dateModified: '2016-03-05T21:44:35.720Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -35,7 +35,7 @@ Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern
 Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
 
 Seit 1997 Gründung und Leitung des Saxophonquartetts _Les Saxoiseaux_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7bc96b0-2239-479d-b0e7-c7e96bd05c8d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba0b928731bb80fe52108026ffd1d71d604780a3.jpg)
 
 ## Der Musikpädagoge
 
