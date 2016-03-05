@@ -1,4 +1,4 @@
-name: Daniel Zeiter
+name: danielzeiter.com
 favicon: null
 layout_spectrum: 0.49744
 typography_spectrum: 0.94373
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.75
   lightness: 0.25
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
