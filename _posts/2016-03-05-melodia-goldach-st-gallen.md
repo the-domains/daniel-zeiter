@@ -6,8 +6,8 @@ inLanguage: de
 starred: true
 keywords: []
 description: 'Die 52-köpfige Formation hat sich der Unterhaltungsmusik verschrieben und überrascht ihr Publikum jedes Jahr von neuem mit vielseitigen Shows. 4:09 min, aus Kampf der Orchester vom 22.11.2014 4:07 min, aus Kampf der Orchester vom 16.11.2014 2:53 min, aus Kampf der Orchester vom 16.11.2014 Vor mehr als einem Jahrhundert als "Blechmusik" gegründet, entwickelte sich Melodia Goldach aber schon früh zu einer "Harmonie".'
-datePublished: '2016-03-05T03:33:58.134Z'
-dateModified: '2016-03-05T03:29:21.816Z'
+datePublished: '2016-03-05T03:36:18.737Z'
+dateModified: '2016-03-05T03:34:08.020Z'
 author: []
 related: []
 app_links: []
