@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1RdooODSnd0'
+inLanguage: de
+starred: false
+keywords: []
+description: 'Die Melodia Goldach präsentierte an ihrer Unterhaltungsshow "Die Nacht der goldenen Musicals" diesen Titel aus dem Musical "La Cage aux Folles". Gesangllich unterstützt wurde der Musikverein dabei vom Musicalstar Brigitte Oelke.'
+datePublished: '2016-03-05T03:36:01.984Z'
+dateModified: '2016-03-05T03:33:20.717Z'
 author:
   - name: Philipp Seitz
     url: 'https://www.youtube.com/user/psking99'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Die Melodia Goldach präsentierte an ihrer Unterhaltungsshow "Die Nacht der goldenen Musicals" diesen Titel aus dem Musical "La Cage aux Folles". Gesangllich unterstützt wurde der Musikverein dabei vom Musicalstar Brigitte Oelke.'
-inLanguage: de
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=1RdooODSnd0&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1RdooODSnd0'
 title: 'I am what I am (Melodia Goldach, 2014)'
-datePublished: '2016-03-05T03:31:07.654Z'
-dateModified: '2016-03-05T03:25:32.369Z'
 sourcePath: _posts/2016-03-05-i-am-what-i-am-melodia-goldach-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
