@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=274&v=vmXXH3pIxXo'
+inLanguage: null
+starred: false
+keywords: []
+description: "An ihrer Unterhaltungsshow 2013 präsentierte die Melodia Goldach das gigantische Werk 'Godzilla'. Die atemberaubende Musik und die vielen Effekte wurden vom Filmteam Hoppel-Pictures Entertainment eingefangen."
+datePublished: '2016-03-05T03:32:49.027Z'
+dateModified: '2016-03-05T03:30:57.277Z'
 author:
   - name: Philipp Seitz
     url: 'https://www.youtube.com/user/psking99'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "An ihrer Unterhaltungsshow 2013 präsentierte die Melodia Goldach das gigantische Werk 'Godzilla'. Die atemberaubende Musik und die vielen Effekte wurden vom Filmteam Hoppel-Pictures Entertainment eingefangen."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=274&v=vmXXH3pIxXo'
 title: 'Godzilla (Melodia Goldach, 2013)'
-datePublished: '2016-03-05T03:30:51.281Z'
-dateModified: '2016-03-05T03:26:09.782Z'
 sourcePath: _posts/2016-03-05-godzilla-melodia-goldach-2013.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
