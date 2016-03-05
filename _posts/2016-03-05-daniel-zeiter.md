@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T12:27:38.291Z'
-dateModified: '2016-03-05T12:27:37.374Z'
-title: Daniel Zeiter
+description: Daniel Zeiter
+datePublished: '2016-03-05T12:36:46.373Z'
+dateModified: '2016-03-05T12:36:24.544Z'
+title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
 published: true
@@ -19,20 +19,20 @@ publisher:
   url: null
   favicon: null
 url: daniel-zeiter/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65bf03fa4afdc51ffd577d0f52e1cad3c3a9edef.jpg)
 
-Tätigkeiten als Dirigent aktuell: 
+Daniel Zeiter -- Der Dirigent: 
 
 Seit 2007 Dirigent der [Melodia Goldach][0]
 
-Seit 2003 Dirigent und Leiter des Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO) und des Orchesters des Untergymnasiums
+Seit 2003 Dirigent und Leiter des _Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO)_ und des _Orchesters des Untergymnasiums der __Kantonsschule am Burggraben St.Gallen_
 
 Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern 
 
-Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
+Seit 2000 Co-Leader und Saxophonist in der _Atlantis Big Band_
 
 Seit 1997 Gründung und Leitung des Saxophonquartettes _Les Saxoiseaux _
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fa882a98306fa89768e9dfab469dedfb05c4092.jpg)
@@ -70,4 +70,3 @@ Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
 
 [0]: http://www.melodia.ch/
-[1]: null
