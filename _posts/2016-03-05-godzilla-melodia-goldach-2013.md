@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An ihrer Unterhaltungsshow 2013 präsentierte die Melodia Goldach das gigantische Werk 'Godzilla'. Die atemberaubende Musik und die vielen Effekte wurden vom Filmteam Hoppel-Pictures Entertainment eingefangen."
-datePublished: '2016-03-05T03:32:49.027Z'
-dateModified: '2016-03-05T03:30:57.277Z'
+datePublished: '2016-03-05T03:35:48.196Z'
+dateModified: '2016-03-05T03:32:58.823Z'
 author:
   - name: Philipp Seitz
     url: 'https://www.youtube.com/user/psking99'
