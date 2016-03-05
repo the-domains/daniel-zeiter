@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T16:20:12.640Z'
-dateModified: '2016-03-05T16:19:56.981Z'
+datePublished: '2016-03-05T16:25:24.360Z'
+dateModified: '2016-03-05T16:24:55.604Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -37,7 +37,11 @@ Seit 2000 Co-Leader und Saxophonist in der _Atlantis Big Band_
 Seit 1997 Gründung und Leitung des Saxophonquartettes _Les Saxoiseaux_
 
 __
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fa882a98306fa89768e9dfab469dedfb05c4092.jpg)
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b14a0e-f076-4d4b-b675-5211808688ee.jpg)
+
+## 
 
 ## Der Musikpädagoge
 
@@ -102,5 +106,7 @@ Im Alter von 10 -- 13 Jahren Tambourenunterricht
 Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
 
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8545e36d-ae8d-461b-8ce3-663c13c2aa30.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98d4a283-742e-4326-bc05-66bb8f8fb8b6.jpg)
 
 [0]: http://www.melodia.ch/
