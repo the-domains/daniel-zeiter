@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:04:06.601Z'
-dateModified: '2016-03-05T21:03:58.472Z'
+datePublished: '2016-03-05T21:04:27.667Z'
+dateModified: '2016-03-05T21:04:09.942Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-05-impressum.md
