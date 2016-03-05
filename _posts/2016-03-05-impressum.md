@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T04:54:11.067Z'
-dateModified: '2016-03-05T04:54:10.158Z'
+datePublished: '2016-03-05T04:56:39.526Z'
+dateModified: '2016-03-05T04:56:38.737Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-05-impressum.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 Diese Internetseite wird gepflegt von:
 
-StagePeople - Inh. Robert Würges - Holsteinische Str. 18 - D-12161 Berlin -GERMANY
+StagePeople • Inh. Robert Würges • Holsteinische Str. 18 • D-12161 Berlin • GERMANY
 
 T +49 171 9849586
 
