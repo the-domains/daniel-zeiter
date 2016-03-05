@@ -1,0 +1,28 @@
+name: Daniel Zeiter
+favicon: null
+layout_spectrum: 0.47828655457124114
+typography_spectrum: 0.47208008356392384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3857009056955576
+  lightness: 0.9621515492908657
+  saturation: 0.3455544167663902
+  rhythmicContrast: 0.5132439059671015
+purpose: []
