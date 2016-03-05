@@ -1,14 +1,10 @@
 ---
-author:
-  - name: SRF Musik
-    url: 'https://www.youtube.com/user/srfmusik'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=bmAzstAdle8'
+inLanguage: en
+starred: false
 keywords:
   - kampf
   - orchester
@@ -21,7 +17,13 @@ keywords:
   - horror
   - bml
 description: 'Melodia Goldach spielt gemeinsam mit ihrem prominenten Teammitglied Nöldi Forrer ein Medley mit Songs "Hot Patootie", "Touch-A, Touch-A, Touch-Me" und "Time Warp" aus der "Rocky Horror Picture Show"'
-inLanguage: en
+datePublished: '2016-03-05T03:33:41.815Z'
+dateModified: '2016-03-05T03:33:38.956Z'
+author:
+  - name: SRF Musik
+    url: 'https://www.youtube.com/user/srfmusik'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=bmAzstAdle8&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=bmAzstAdle8'
 title: Melodia Goldach - Rocky Horror Picture Show-Medley bei Kampf der Orchester
-datePublished: '2016-03-05T03:31:17.586Z'
-dateModified: '2016-03-05T03:25:16.975Z'
 sourcePath: _posts/2016-03-05-melodia-goldach-rocky-horror-picture-show-medley-bei-kampf.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
