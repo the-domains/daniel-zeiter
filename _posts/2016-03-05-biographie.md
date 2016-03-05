@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T17:19:11.567Z'
-dateModified: '2016-03-05T17:19:01.814Z'
+datePublished: '2016-03-05T17:23:02.442Z'
+dateModified: '2016-03-05T17:22:58.849Z'
 title: Biographie
 author: []
+sourcePath: _posts/2016-03-05-biographie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-biographie.md
-published: true
 url: biographie/index.html
 _type: WebPage
 
