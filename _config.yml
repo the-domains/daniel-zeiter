@@ -29,13 +29,13 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.375
-  saturation: 1
+  lightness: 0.6231028
+  saturation: 0.4932546
+  rhythmicContrast: 0.6720067
   brandColors:
     - '#000000'
     - '#213b8b'
     - '#d2d8e2'
     - '#3c7cbb'
     - '#72a1d3'
-  lightness: 0.5
-  rhythmicContrast: 0.5
 typography_spectrum: 0.65739
