@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T11:21:43.397Z'
-dateModified: '2016-03-05T11:20:35.304Z'
+datePublished: '2016-03-05T11:26:50.585Z'
+dateModified: '2016-03-05T11:26:41.464Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -46,7 +46,7 @@ Musikalische Ausbildung als Dirigent
 
 2011 -- 2012 Sabbatical in Paris bei Neil Thomson, intensive höhere Studien im sinfonischen Repertoire, Privatstudent von Neil Thomson
 seit 2012 Meisterkurse beim LCW in Paris und London unter John Farrer (USA), Neil Thomson (GB) und Patrick Bailey (GB)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93a8e29-dfa9-40f8-9700-12384de283a6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/200388db9d0bcd44c36dc6a19b5c8b6ffeaa909e.jpg)
 
 Spezielles und „Was man wirklich wissen sollte" 
 
