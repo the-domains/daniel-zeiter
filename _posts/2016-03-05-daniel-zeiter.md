@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T16:40:20.268Z'
-dateModified: '2016-03-05T16:40:10.888Z'
+datePublished: '2016-03-05T16:41:40.718Z'
+dateModified: '2016-03-05T16:41:31.488Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -106,8 +106,5 @@ Im Alter von 10 -- 13 Jahren Tambourenunterricht
 Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
 
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8545e36d-ae8d-461b-8ce3-663c13c2aa30.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98d4a283-742e-4326-bc05-66bb8f8fb8b6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b7c47aa-fa95-496c-84b3-d67b1c34065d.jpg)
 
 [0]: http://www.melodia.ch/
