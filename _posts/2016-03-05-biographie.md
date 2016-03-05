@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:29:35.309Z'
-dateModified: '2016-03-05T20:29:12.063Z'
+datePublished: '2016-03-05T20:39:15.706Z'
+dateModified: '2016-03-05T20:38:19.262Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -22,8 +22,9 @@ url: biographie/index.html
 _type: WebPage
 
 ---
-## Der Musiker und Dirigent
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f25285d9-8f75-46b9-b148-a4a777533867.jpg)
+
+## Der Musiker und Dirigent
 
 Seit 2007 Dirigent der Melodia Goldach 
 
