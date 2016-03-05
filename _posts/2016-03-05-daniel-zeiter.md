@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dirigent • Saxophonist • Musikpädagoge
-datePublished: '2016-03-05T12:26:55.485Z'
-dateModified: '2016-03-05T12:26:48.421Z'
+datePublished: '2016-03-05T12:27:38.291Z'
+dateModified: '2016-03-05T12:27:37.374Z'
 title: Daniel Zeiter
 author: []
 sourcePath: _posts/2016-03-05-daniel-zeiter.md
@@ -28,7 +28,7 @@ Tätigkeiten als Dirigent aktuell:
 
 Seit 2007 Dirigent der [Melodia Goldach][0]
 
-Seit 2003 Dirigent und Leiter des [Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO)][1] und des Orchesters des Untergymnasiums
+Seit 2003 Dirigent und Leiter des Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO) und des Orchesters des Untergymnasiums
 
 Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern 
 
