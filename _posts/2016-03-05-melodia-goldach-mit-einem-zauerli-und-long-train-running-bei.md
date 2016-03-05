@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=sNkLjISB1ak'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Die Formation aus St. Gallen performt gemeinsam mit ihrem prominenten Mitglied Nöldi Forrer ein Zäuerli und "Long Train Running" von den Doobie Brothers.'
+datePublished: '2016-03-05T03:36:10.639Z'
+dateModified: '2016-03-05T03:34:00.089Z'
 author:
   - name: SRF Musik
     url: 'https://www.youtube.com/user/srfmusik'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Die Formation aus St. Gallen performt gemeinsam mit ihrem prominenten Mitglied Nöldi Forrer ein Zäuerli und "Long Train Running" von den Doobie Brothers.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=sNkLjISB1ak'
 title: Melodia Goldach mit einem Zäuerli und Long Train Running bei Kampf der Orchester
-datePublished: '2016-03-05T03:31:29.195Z'
-dateModified: '2016-03-05T03:25:01.170Z'
 sourcePath: _posts/2016-03-05-melodia-goldach-mit-einem-zauerli-und-long-train-running-bei.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
