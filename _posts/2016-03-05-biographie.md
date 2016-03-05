@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:39:43.434Z'
-dateModified: '2016-03-05T20:39:20.330Z'
+datePublished: '2016-03-05T20:44:40.562Z'
+dateModified: '2016-03-05T20:44:38.974Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -26,18 +26,18 @@ _type: WebPage
 
 ## Der Musiker und Dirigent
 
-Seit 2007 Dirigent der Melodia Goldach 
+Seit 2007 Dirigent der [_Melodia Goldach_][0]
 
-Seit 2003 Dirigent und Leiter des Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO) und des Orchesters des Untergymnasiums der Kantonsschule am Burggraben St.Gallen 
+Seit 2003 Dirigent und Leiter des _Blasorchesters der Kantonsschule am Burggraben St.Gallen (KBO)_ und des _Orchesters des Untergymnasiums  der Kantonsschule am Burggraben St.Gallen_
 
 Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern 
 
-Seit 2000 Co-Leader und Saxophonist in der Atlantis Big Band 
+Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
 
-Seit 1997 Gründung und Leitung des Saxophonquartetts Les Saxoiseaux
+Seit 1997 Gründung und Leitung des Saxophonquartetts _Les Saxoiseaux_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7bc96b0-2239-479d-b0e7-c7e96bd05c8d.jpg)
 
 ## Der Musikpädagoge
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7bc96b0-2239-479d-b0e7-c7e96bd05c8d.jpg)
 
 2011 -- 2012 Sabbatical in Paris bei Neil Thomson
 Intensive höhere Studien im sinfonischen Repertoire 
@@ -56,9 +56,9 @@ Seit 2003 Ausbildungskraft für Saxophon an der Kantonsschule am Burggraben St.G
 1998 -- 2000 bei Eduard Meier (CH) 
 
 Seit 1998 Registerlehrer im Sommerlager des St.Galler Blasmusikverbandes Musikalische Ausbildung als Dirigent
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ad7368-ee84-47df-9ce6-1d9eb7567bec.jpg)
 
 ## Musikalische Ausbildung
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ad7368-ee84-47df-9ce6-1d9eb7567bec.jpg)
 
 2011 - 2012 Weiterbildung in Paris bei Neil Thomson 
 
@@ -74,10 +74,10 @@ Kammermusik bei Jean-Georges Koerper (Musikhochschule Zürich)
 1998 Beginn des Lehrdiplomstudiums an der Musikakademie St.Gallen bei Silvio Wyler (Saxophon klassisch) 
 
 1991 -- 2005 Saxophonunterricht bei verschiedensten Lehrern
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5025929f-12be-4552-821a-a6a00acbf618.jpg)
 
 ## Spezielles und  
 „Was man wirklich wissen sollte"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5025929f-12be-4552-821a-a6a00acbf618.jpg)
 
 2006 Auszeichnung als Preisträger der Josef Strässle-Steigacker-Stiftung des St.Galler Blasmusikverbandes.
 
@@ -100,3 +100,6 @@ Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika
 
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6309955-b9c3-48d5-b2c6-8597ac5a0ef0.png)
+
+[0]: http://www.melodia.ch/
+[1]: http://www.atlantisbigband.ch/
