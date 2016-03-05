@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.srf.ch/sendungen/kampf-der-orchester/melodia-goldach-st-gallen'
 inLanguage: de
 starred: false
 keywords: []
 description: 'Die 52-köpfige Formation hat sich der Unterhaltungsmusik verschrieben und überrascht ihr Publikum jedes Jahr von neuem mit vielseitigen Shows. 4:09 min, aus Kampf der Orchester vom 22.11.2014 4:07 min, aus Kampf der Orchester vom 16.11.2014 2:53 min, aus Kampf der Orchester vom 16.11.2014 Vor mehr als einem Jahrhundert als "Blechmusik" gegründet, entwickelte sich Melodia Goldach aber schon früh zu einer "Harmonie".'
-datePublished: '2016-03-05T03:38:29.431Z'
-dateModified: '2016-03-05T03:38:23.994Z'
+datePublished: '2016-03-05T04:23:00.037Z'
+dateModified: '2016-03-05T04:22:48.803Z'
 author: []
 related: []
 app_links: []
@@ -20,7 +21,6 @@ publisher:
   domain: www.srf.ch
   url: 'http://www.srf.ch'
   favicon: 'http://www.srf.ch/extension/srf_shared/design/standard/images/homescreen-icons/fav.ico'
-url: melodia-goldach-st-gallen/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
