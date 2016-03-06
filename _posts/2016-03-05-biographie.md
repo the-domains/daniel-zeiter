@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T20:40:41.680Z'
-dateModified: '2016-03-06T20:40:41.535Z'
+datePublished: '2016-03-06T21:02:21.634Z'
+dateModified: '2016-03-06T21:01:51.546Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -22,7 +22,7 @@ url: biographie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a71f63-a585-4e9b-aadd-f9d6ce600bdc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccce0c46afebfa561fbb4ad9f77da1fb1e079aac.jpg)
 
 ## Der Musiker und Dirigent
 
