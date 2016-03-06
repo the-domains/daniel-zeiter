@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T15:44:54.168Z'
-dateModified: '2016-03-06T15:44:05.612Z'
+datePublished: '2016-03-06T20:40:41.680Z'
+dateModified: '2016-03-06T20:40:41.535Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -22,8 +22,9 @@ url: biographie/index.html
 _type: Article
 
 ---
-## Der Musiker und Dirigent
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a71f63-a585-4e9b-aadd-f9d6ce600bdc.jpg)
+
+## Der Musiker und Dirigent
 
 * Seit 2007 Dirigent der [_Melodia Goldach_][0]
 
@@ -34,9 +35,9 @@ _type: Article
 * Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
 
 * Seit 1997 Gründung und Leitung des Saxophonquartetts _Les Saxoiseau_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba0b928731bb80fe52108026ffd1d71d604780a3.jpg)
 
 ## Der Musikpädagoge
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba0b928731bb80fe52108026ffd1d71d604780a3.jpg)
 
 * 2011 -- 2012 Sabbatical in Paris bei Neil Thomson
 Intensive höhere Studien im sinfonischen Repertoire 
@@ -55,9 +56,9 @@ Meisterkurse beim LCW in Paris und London unter John Farrer (USA), Neil Thomson 
 * 1998 -- 2000 bei Eduard Meier (CH) 
 
 * Seit 1998 Registerlehrer im Sommerlager des St.Galler Blasmusikverbandes Musikalische Ausbildung als Dirigent
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ad7368-ee84-47df-9ce6-1d9eb7567bec.jpg)
 
 ## Musikalische Ausbildung
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ad7368-ee84-47df-9ce6-1d9eb7567bec.jpg)
 
 * 2011 - 2012 Weiterbildung in Paris bei Neil Thomson 
 
@@ -73,10 +74,10 @@ Kammermusik bei Jean-Georges Koerper (Musikhochschule Zürich)
 1998 Beginn des Lehrdiplomstudiums an der Musikakademie St.Gallen bei Silvio Wyler (Saxophon klassisch) 
 
 * 1991 -- 2005 Saxophonunterricht bei verschiedensten Lehrern
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5025929f-12be-4552-821a-a6a00acbf618.jpg)
 
 ## Spezielles und  
 „Was man wirklich wissen sollte"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5025929f-12be-4552-821a-a6a00acbf618.jpg)
 
 * 2006 Auszeichnung als Preisträger der Josef Strässle-Steigacker-Stiftung des St.Galler Blasmusikverbandes.
 
