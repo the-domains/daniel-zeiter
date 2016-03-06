@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:44:38.946Z'
-dateModified: '2016-03-05T21:44:35.720Z'
+datePublished: '2016-03-06T01:00:08.374Z'
+dateModified: '2016-03-06T01:00:04.236Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: biographie/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f25285d9-8f75-46b9-b148-a4a777533867.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c73028fefdf626ece9c4a1e9da264cd98353a131.jpg)
 
 ## Der Musiker und Dirigent
 
@@ -34,7 +34,7 @@ Seit 2001 diverse Gastdirigate bei verschiedenen Blasorchestern
 
 Seit 2000 Co-Leader und Saxophonist in der _[Atlantis Big Band][1]_
 
-Seit 1997 Gründung und Leitung des Saxophonquartetts _Les Saxoiseaux_
+Seit 1997 Gründung und Leitung des Saxophonquartetts _Les Saxoiseau_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba0b928731bb80fe52108026ffd1d71d604780a3.jpg)
 
 ## Der Musikpädagoge
@@ -99,7 +99,6 @@ Im Alter von 10 -- 13 Jahren Tambourenunterricht
 Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
 
 Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6309955-b9c3-48d5-b2c6-8597ac5a0ef0.png)
 
 [0]: http://www.melodia.ch/
 [1]: http://www.atlantisbigband.ch/
