@@ -7,12 +7,12 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Die 52-köpfige Formation hat sich der Unterhaltungsmusik verschrieben und überrascht ihr Publikum jedes Jahr von neuem mit vielseitigen Shows. 4:09 min, aus Kampf der Orchester vom 22.11.2014 4:07 min, aus Kampf der Orchester vom 16.11.2014 2:53 min, aus Kampf der Orchester vom 16.11.2014 Vor mehr als einem Jahrhundert als "Blechmusik" gegründet, entwickelte sich Melodia Goldach aber schon früh zu einer "Harmonie".'
-datePublished: '2016-03-05T04:23:00.037Z'
-dateModified: '2016-03-05T04:22:48.803Z'
+datePublished: '2016-03-06T01:50:46.706Z'
+dateModified: '2016-03-06T01:38:51.397Z'
 author: []
 related: []
 app_links: []
-title: Melodia Goldach - St. Gallen
+title: Melodia Goldach - St.Gallen
 sourcePath: _posts/2016-03-05-melodia-goldach-st-gallen.md
 published: true
 authors: []
