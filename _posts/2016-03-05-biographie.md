@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T15:28:23.418Z'
-dateModified: '2016-03-06T15:27:59.620Z'
+datePublished: '2016-03-06T15:29:03.221Z'
+dateModified: '2016-03-06T15:28:47.774Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -22,9 +22,8 @@ url: biographie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a71f63-a585-4e9b-aadd-f9d6ce600bdc.jpg)
-
 ## Der Musiker und Dirigent
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a71f63-a585-4e9b-aadd-f9d6ce600bdc.jpg)
 
 * Seit 2007 Dirigent der [_Melodia Goldach_][0]
 
