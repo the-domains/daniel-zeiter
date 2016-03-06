@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: "Die Melodia Goldach präsentierte an ihrer Unterhaltungsshow 2011 'Long Train Runnin'' von The Doobie Brothers. Gesanglich unterstützt wurde der Musikverein dabei von Manuela Gerosa und Thomas Straumann. Das Team von Hoppel-Pictures Entertainment filmte das Konzert."
-datePublished: '2016-03-05T03:35:53.923Z'
-dateModified: '2016-03-05T03:32:46.609Z'
+datePublished: '2016-03-06T20:55:08.655Z'
+dateModified: '2016-03-06T20:54:50.615Z'
 author:
   - name: Philipp Seitz
     url: 'https://www.youtube.com/user/psking99'
@@ -51,7 +51,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: "LongTrainRunnin' (Melodia Goldach, 2011)"
+title: "Long Train Runnin' (Melodia Goldach, 2011)"
 sourcePath: _posts/2016-03-05-longtrainrunnin-melodia-goldach-2011.md
 published: true
 authors: []
