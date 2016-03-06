@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T01:56:39.081Z'
-dateModified: '2016-03-06T01:56:33.360Z'
+datePublished: '2016-03-06T02:00:06.677Z'
+dateModified: '2016-03-06T02:00:04.649Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-03-05-impressum.md
@@ -115,7 +115,6 @@ We would like to expressly point out that the transmission of data via the Inter
 The use by third parties of all published contact details for the purpose of advertising is expressly excluded. We reserve the right to take legal steps in the case of the unsolicited sending of advertising information; e.g., by means of spam mail.
 
 Source: [English Disclaimer on Mustervorlage.net][7]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69b01010-31ff-4434-84bd-beada829f830.png)
 
 [0]: http://www.stagepeople.com/
 [1]: http://de-de.facebook.com/policy.php
