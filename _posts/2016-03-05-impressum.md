@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T01:44:15.817Z'
-dateModified: '2016-03-06T01:44:10.009Z'
+datePublished: '2016-03-06T01:56:39.081Z'
+dateModified: '2016-03-06T01:56:33.360Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-03-05-impressum.md
