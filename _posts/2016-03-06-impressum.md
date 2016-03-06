@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T20:42:00.182Z'
-dateModified: '2016-03-06T20:41:51.232Z'
+datePublished: '2016-03-06T20:44:08.450Z'
+dateModified: '2016-03-06T20:43:40.008Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-06-impressum.md
@@ -24,12 +24,12 @@ _type: WebPage
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df48a16410fd7e88697c6de4e2e740ea35c181d.png)
 
-Robert Würges  
-StagePeople  
-Holsteinische Str. 18  
-D-12161 Berlin  
-GERMANY  
-T +491719849586
+Robert Würges   
+StagePeople   
+Holsteinische Str. 18   
+D-12161 Berlin   
+GERMANY   
+T +491719849586 
 
 Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE252372105
 
