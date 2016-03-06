@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T02:03:39.998Z'
-dateModified: '2016-03-06T02:03:05.832Z'
+datePublished: '2016-03-06T02:08:11.047Z'
+dateModified: '2016-03-06T02:06:01.991Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-03-05-impressum.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: impressum/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Diese Internetseite wird gepflegt von:
