@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T14:11:03.688Z'
-dateModified: '2016-03-06T14:10:40.834Z'
+datePublished: '2016-03-06T15:27:32.385Z'
+dateModified: '2016-03-06T15:27:18.233Z'
 title: Biographie
 author: []
 sourcePath: _posts/2016-03-05-biographie.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ## Der Musiker und Dirigent
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c73028fefdf626ece9c4a1e9da264cd98353a131.jpg)
 
 * Seit 2007 Dirigent der [_Melodia Goldach_][0]
 
@@ -98,6 +97,7 @@ In jungen Jahren.
 * Spielte auch schon (oder immer noch) mit Begeisterung Blockflöte, Mundharmonika, Klavier, Querflöte, Klarinette, Posaune und Waldhorn 
 
 * Plante mit einem Jugendfreund -- notabene einem Goldacher -- den Aufbau einer Sandwich-Verkaufskette
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aa3c5b2-d8ab-4e82-9640-cb86bc1c2246.jpg)
 
 [0]: http://www.melodia.ch/
 [1]: http://www.atlantisbigband.ch/
