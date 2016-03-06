@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T14:23:47.894Z'
+datePublished: '2016-03-06T14:23:50.923Z'
 dateModified: '2016-03-06T14:23:03.909Z'
 title: Impressum
 author: []
