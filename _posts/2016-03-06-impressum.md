@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:39:40.010Z'
-dateModified: '2016-03-06T22:39:36.533Z'
+datePublished: '2016-03-07T01:52:00.302Z'
+dateModified: '2016-03-07T01:51:57.046Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-06-impressum.md
@@ -22,7 +22,7 @@ url: impressum/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2500c152075cdb1ad4477e309a38b50d0502f8da.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9664c36b-ee95-4ffe-8294-4a06558f936a.png)
 
 Robert Würges   
 StagePeople   
