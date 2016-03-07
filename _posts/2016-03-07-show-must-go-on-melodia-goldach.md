@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://brianmay.com/queen/queennews/queennewsmar08a.html'
 inLanguage: null
 starred: false
 keywords: []
 description: '**Mon 03 Mar 08** WWRY VIENNA - SHOW MUST TO ON CONCERTS AND BAND NIGHT  The amazing Zurich Killer Queen, Brigitte Oelke will sing in two concerts in her home c'
-datePublished: '2016-03-07T02:40:23.379Z'
-dateModified: '2016-03-07T02:40:17.696Z'
+datePublished: '2016-03-07T13:19:34.683Z'
+dateModified: '2016-03-07T13:19:32.215Z'
 author: []
 title: SHOW MUST GO ON (Melodia Goldach)
 sourcePath: _posts/2016-03-07-show-must-go-on-melodia-goldach.md
@@ -19,6 +18,7 @@ publisher:
   domain: brianmay.com
   url: null
   favicon: null
+url: show-must-go-on-melodia-goldach/index.html
 _context: 'http://schema.org'
 _type: Article
 
