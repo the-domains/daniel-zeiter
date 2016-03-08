@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Robert Würges\_StagePeople\_Holsteinische Str. 18\_D-12161 Berlin\_GERMANY\_T +491719849586\_"
-datePublished: '2016-03-08T12:44:34.845Z'
-dateModified: '2016-03-08T12:44:30.244Z'
+datePublished: '2016-03-08T12:51:54.206Z'
+dateModified: '2016-03-08T12:51:51.568Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-06-impressum.md
@@ -22,7 +22,7 @@ url: impressum/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84408c5b-fda8-4e59-9eef-54702f26c5ab.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7197a3-31c9-48eb-8bbb-72ce5fca91f4.png)
 
 Robert Würges   
 StagePeople   
