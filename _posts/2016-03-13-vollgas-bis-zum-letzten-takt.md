@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Melodia Goldach über ihren Dirigenten Daniel Zeiter
-datePublished: '2016-03-13T23:35:32.943Z'
-dateModified: '2016-03-13T23:35:12.067Z'
+datePublished: '2016-03-13T23:38:39.531Z'
+dateModified: '2016-03-13T23:38:34.920Z'
 author: []
 title: Vollgas bis zum letzten Takt
+sourcePath: _posts/2016-03-13-vollgas-bis-zum-letzten-takt.md
+published: true
 authors: []
 publisher:
   name: mhjfbmdgcfjbbpaeojofohoefgiehjai
   domain: mhjfbmdgcfjbbpaeojofohoefgiehjai
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-vollgas-bis-zum-letzten-takt.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
