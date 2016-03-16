@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:28:42.021Z'
-dateModified: '2016-03-16T01:28:39.003Z'
+datePublished: '2016-03-16T01:33:06.954Z'
+dateModified: '2016-03-16T01:33:06.567Z'
 author: []
 title: CINEMAGIC II
 sourcePath: _posts/2016-03-16-ciinemagic-ii.md
