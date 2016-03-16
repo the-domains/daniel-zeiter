@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-16T00:28:24.037Z'
-dateModified: '2016-03-16T00:28:16.434Z'
+datePublished: '2016-03-16T01:28:42.021Z'
+dateModified: '2016-03-16T01:28:39.003Z'
 author: []
-title: CIINEMAGIC II
+title: CINEMAGIC II
+sourcePath: _posts/2016-03-16-ciinemagic-ii.md
+published: true
 authors: []
 publisher:
   name: tagblatt.ch
   domain: www.tagblatt.ch
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-ciinemagic-ii.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
